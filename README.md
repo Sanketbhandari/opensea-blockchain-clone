@@ -1,4 +1,4 @@
-#Opensea Blockchain Marketplace Clone
+<h2>Opensea Blockchain Marketplace Clone</h2>
 
 <h3>Techstack used</h3>
 <li>Nextjs</li>
