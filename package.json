@@ -1,6 +1,6 @@
 {
   "private": true,
-  "homepage": "https://sanketbhandari.github.io/opensea-blockchain.clone",
+  "homepage": "https://sanketbhandari.github.io/opensea-blockchain-clone/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -12,12 +12,14 @@
     "@3rdweb/hooks": "^1.9.2",
     "@3rdweb/sdk": "^1.42.0",
     "@sanity/client": "^3.2.0",
+    "gh-pages": "^3.2.3",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-hot-toast": "^2.2.0",
     "react-icon": "^1.0.0",
-    "react-icons": "^4.3.1"
+    "react-icons": "^4.3.1",
+    "save-dev": "^0.0.1-security"
   },
   "devDependencies": {
     "@types/node": "17.0.4",
