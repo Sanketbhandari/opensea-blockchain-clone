@@ -26,7 +26,7 @@ const Nft = () => {
     if (!provider) return
 
     const sdk = new ThirdwebSDK(
-      provider.getSigner(),
+      provider.getSigner(),'wss://eth-rinkeby.alchemyapi.io/v2/0-izJZG_Iqa7cQEGRU6EHcZvHQnemHdB'
     )
     return sdk.getNFTModule('0x5e1f4B6b9860752261aD131b218E733cC96e234B')
   }, [provider])
@@ -47,7 +47,7 @@ const Nft = () => {
     if (!provider) return
 
     const sdk = new ThirdwebSDK(
-      provider.getSigner(),
+      provider.getSigner(),'wss://eth-rinkeby.alchemyapi.io/v2/0-izJZG_Iqa7cQEGRU6EHcZvHQnemHdB'
     )
 
     return sdk.getMarketplaceModule(
