@@ -8,5 +8,8 @@
 <li>Alchemy for integration</li>
 <li>Metamask for Authentication</li>
 <li>Thirdweb to mint NFT and list in Opensea</li>
+</br>
+</br>
+</br>
 
 To view this project <a href='https://opensea-blockchain-clone-sanketbhandari.vercel.app/'>Click here</a>
